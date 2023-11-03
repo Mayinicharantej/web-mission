@@ -1,0 +1,41 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    color: white;
+    text-decoration: none;
+   
+}
+
+#navbar{
+    background-color: #0f1111;
+    height: 70px;
+
+}
+#logo{
+    color: #f08804;
+    margin-right: 200px;
+    font-size: 25px;
+}
+#account{
+    margin-right: 20px;
+}
+#cart{
+    margin-right: 20px;
+}
+#contact{
+    margin-right: 20px;
+}
+
+.search{
+    background-color: #f08804;
+    color: #0f1111;
+    margin-left: 0%;
+}
+#order{
+    margin-right: normal;
+}
+
+    
+
+
+

@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Calibri, sans-serif;
+
+}
+header{
+    background: linear-gradient(180deg,black,lightgray);
+    color: whitesmoke;
+    padding: 10px;
+}
+nav{
+    background-color: gray;
+    
+    font-size: 20px;
+}
+nav a{
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 5px 25px;
+    display: inline-block;
+}
+nav a:hover{
+    background-color: lightgray;
+    color: black;
+}

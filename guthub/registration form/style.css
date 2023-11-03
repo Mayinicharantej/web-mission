@@ -1,0 +1,45 @@
+.registration{
+    color: rgb(242, 250, 250);
+    height: 800px;
+    background-color: black;
+    text-align: center;
+}
+.head{
+    color: aliceblue;
+    font-style: italic;
+}
+.name{
+    color: rgb(251, 248, 248);
+    font-style: italic;
+
+}
+.age{
+    color: aliceblue;
+    font-style: italic;
+}
+.dob{
+    color: aliceblue;
+    font-style: italic;
+}
+.email{
+    color: aliceblue;
+    font-style: italic; 
+}
+.nationality{
+    color: aliceblue;
+    font-style: italic;
+}
+.buttons{
+    color: aliceblue;
+    font-style: italic;
+}
+.terms{
+    color: aliceblue;
+    font-style: italic;
+}
+.checkbox{
+    color: aliceblue;
+    font-style: italic;
+}
+
+

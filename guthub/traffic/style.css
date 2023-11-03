@@ -1,0 +1,36 @@
+div{
+     margin-left: 43%;
+     margin-top: 10%;
+     background-color: black;
+     height: 400px;
+     width: 125px;
+     border: 2px solid yellow;
+
+
+}
+#one{
+     background-color: red;
+     height: 100px;
+     width: 100px;
+     margin-top: 20px;
+     margin-left: 10px;
+     border-radius: 100%;
+}
+#two{
+     background-color:orange;
+     height: 100px;
+     width: 100px;
+     margin-top: 20px;
+     margin-left: 10px;
+     border-radius: 100%;
+}
+#the{
+     background-color:green;
+     height: 100px;
+     width: 100px;
+     margin-top: 20px;
+     margin-left: 10px;
+     border-radius: 100%;
+}
+     
+     
